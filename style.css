@@ -1,0 +1,35 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(230, 230, 230);
+}
+.header_div{
+    background:rgb(21, 16, 181);
+    color:gold;
+}
+.header_div p{
+    font-family: 'Creepster', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+     color: maroon;
+
+}
+.main_div button{
+font-family: 'Sriracha', cursive;
+font-weight: bolder;
+margin-top: 30px;
+letter-spacing: 3px;
+width: 130px;
+}
+.copyrightfooter{
+    background-color: mediumblue;
+    line-height: 3;
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-shadow: 5px 5px 5px black;
+
+}
